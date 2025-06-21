@@ -1,2 +1,2 @@
-### Deep Learning Assignments
-This repository contains assignments for the Deep Learning course.
+### Distributed Systems Assignments
+This repository contains assignments for the Distributed Systems course.
